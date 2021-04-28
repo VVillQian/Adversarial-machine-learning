@@ -26,6 +26,8 @@ Number | Method| Title | Reference | Code | Sparkle
 02|FGSM|Explaining and Harnessing Adversarial Examples|[ICLR 2015](https://arxiv.org/abs/1412.6572)
 03|C&W|Towards Evaluating the Robustness of Neural Networks|[S&P 2017](https://ieeexplore.ieee.org/document/7958570/)|[code](http://nicholas.carlini.com/code/nn_robust_attacks)
 04|Boundary Attack|Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models|[ICLR 2018](https://openreview.net/forum?id=SyZI0GWCZ)|[code](https://github.com/bethgelab/foolbox)|black box
+05||Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach|[ICLR 2019](https://openreview.net/forum?id=rJlk6iRqKX)|[code](https://github.com/LeMinhThong/blackbox-attack)|continuous loss for hard-label
+
 
 ### Defence
 

@@ -7,7 +7,7 @@
 
 ## Contests
 - [NIPS 2017: Targeted Adversarial Attack](https://www.kaggle.com/c/nips-2017-targeted-adversarial-attack)
-- [NIPS 2018 : Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge)
+- [NIPS 2018: Adversarial Vision Challenge](https://www.crowdai.org/challenges/adversarial-vision-challenge)
 
 ## Papers
 

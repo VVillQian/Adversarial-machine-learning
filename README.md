@@ -38,7 +38,7 @@ Number | Method| Title | Reference | Code | Sparkle
 Number | Method| Title | Reference | Code | Sparkle
 ------ | ----- | ----- | --------- | ---- | -------
 01|Adversarial Training|Towards Deep Learning Models Resistant to Adversarial Attacks|[ICLR 2018](https://openreview.net/forum?id=rJzIBfZAb)|[code](https://github.com/MadryLab)|min-max formulation;loss surface
-02|TRADES|Theoretically Principled Trade-off between Robustness and Accuracy|[ICML 2019](http://proceedings.mlr.press/v97/zhang19p.html)|[code](https://github.com/yaodongyu/TRADES)|theoretical analysis;lower bound
+02|TRADES|Theoretically Principled Trade-off between Robustness and Accuracy|[ICML 2019](http://proceedings.mlr.press/v97/zhang19p.html)|[code](https://github.com/yaodongyu/TRADES)|SOTA
 
 
 

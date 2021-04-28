@@ -4,12 +4,12 @@
 
 An image with a non-random noisy **imperceptible** to human can make machines' predictions **incorrectly**.
 
-![1](https://github.com/VVillQian/Adversarial-machine-learning/blob/main/images/adex.PNG)
+![](https://github.com/VVillQian/Adversarial-machine-learning/blob/main/images/adex.PNG)
 
-![2](https://latex.codecogs.com/svg.latex?x)
+![](https://latex.codecogs.com/svg.latex?x^*=argmax_x Dist(x,x_0)+c\mathcal{L}(X))
 
 ## Trends
-![3](https://nicholas.carlini.com/writing/2019/advex_plot.png)
+![](https://nicholas.carlini.com/writing/2019/advex_plot.png)
 
 [image source](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
 

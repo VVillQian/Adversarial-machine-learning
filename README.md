@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Image with a non-random noisy **imperceptible** to human can make machine prediction **incorrectly**.
+An image with a non-random noisy **imperceptible** to human can make machines' predictions **incorrectly**.
 
 ## Trends
 ![trends](https://nicholas.carlini.com/writing/2019/advex_plot.png)

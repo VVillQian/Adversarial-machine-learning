@@ -6,7 +6,7 @@ An image with a non-random noisy **imperceptible** to human can make machines' p
 
 ![](https://github.com/VVillQian/Adversarial-machine-learning/blob/main/images/adex.PNG)
 
-![](https://latex.codecogs.com/svg.latex?x^*=argmax)
+![](https://latex.codecogs.com/svg.latex?x^*=\\argmax)
 
 ## Trends
 ![](https://nicholas.carlini.com/writing/2019/advex_plot.png)

@@ -14,7 +14,7 @@
 - [CIKM 2020: Adversarial Challenge on Object Detection](https://tianchi.aliyun.com/competition/entrance/531806/introduction?spm=5176.12281949.1003.15.5cea24485KbbDJ)
 - [ACM MM2021: Robust defense competition for e-commerce logo detection](https://tianchi.aliyun.com/competition/entrance/531888/introduction?spm=5176.12281957.1004.7.38b0244818wKWp)
 
-## Papers
+## Selected Papers
 
 ### Attack
 

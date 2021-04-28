@@ -20,14 +20,21 @@ An image with a non-random noisy **imperceptible** to human can make machines' p
 
 ### Attack
 
-Number | Title | Reference | Code | Sparkle
------- | ----- | --------- | ---- | -------
-01|Intriguing properties of neural networks|ICLR 2014|[code](http://goo.gl/huaGPb)|Definition
-02|Explaining and Harnessing Adversarial Examples|ICLR 2015
+Number | Method| Title | Reference | Code | Sparkle
+------ | ----- | ----- | --------- | ---- | -------
+01|L-BFGS-B|Intriguing Properties of Neural Networks|[ICLR 2014](https://arxiv.org/abs/1312.6199)|[code](http://goo.gl/huaGPb)|Definition
+02|FGSM|Explaining and Harnessing Adversarial Examples|[ICLR 2015](https://arxiv.org/abs/1412.6572)
+03|C&W|Towards Evaluating the Robustness of Neural Networks|[S&P 2017](https://ieeexplore.ieee.org/document/7958570/)|[code](http://nicholas.carlini.com/code/nn robust attacks)
+
+
 ### Defence
 
-Number | Title | Reference | Code | Sparkle
------- | ----- | --------- | ---- | -------
+Number | Method| Title | Reference | Code | Sparkle
+------ | ----- | ----- | --------- | ---- | -------
+01|AT|Towards Deep Learning Models Resistant to Adversarial Attacks|[ICLR 2018](https://openreview.net/forum?id=rJzIBfZAb)|[code](https://github.com/MadryLab)
+02|TRADES|Theoretically Principled Trade-off between Robustness and Accuracy|[ICML 2019](http://proceedings.mlr.press/v97/zhang19p.html)|[code](https://github.com/yaodongyu/TRADES)
+
+
 
 ### Metric
 

@@ -27,7 +27,7 @@ Number | Method| Title | Reference | Code | Sparkle
 03|C&W|Towards Evaluating the Robustness of Neural Networks|[S&P 2017](https://ieeexplore.ieee.org/document/7958570/)|[code](http://nicholas.carlini.com/code/nn_robust_attacks)
 04|Boundary Attack|Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models|[ICLR 2018](https://openreview.net/forum?id=SyZI0GWCZ)|[code](https://github.com/bethgelab/foolbox)|black box
 05|Opt-attack|Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach|[ICLR 2019](https://openreview.net/forum?id=rJlk6iRqKX)|[code](https://github.com/LeMinhThong/blackbox-attack)|continuous loss for hard-label
-06|SignHunter|Sign Bits Are All You Need for Black-Box Attacks|[ICLR 2020](https://openreview.net/forum?id=SygW0TEFwH)|[code](https://bit.ly/3acIHoQ)|
+06|SignHunter|Sign Bits Are All You Need for Black-Box Attacks|[ICLR 2020](https://openreview.net/forum?id=SygW0TEFwH)|[code](https://bit.ly/3acIHoQ)|Separable Gradient Sign Estimation
 07|RayS|RayS: A Ray Searching Method for Hard-label Adversarial Attack|[KDD 2020](https://dl.acm.org/doi/10.1145/3394486.3403225)|[code](https://github.com/uclaml/RayS)|efficiency
 
 

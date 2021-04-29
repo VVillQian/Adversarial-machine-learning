@@ -8,7 +8,7 @@ An image with a non-random noisy **imperceptible** to human can make machines' p
 
 It can be formulated as an optimiation problem:
 ![](https://latex.codecogs.com/svg.latex?x^*=\\mathop{argmax}_{x}Dist(x,x_0)+c\\mathcal{L}(x))
-,where Dist and L capture "imperceptible" and "incorrectly" respectively.
+,where Dist and (https://latex.codecogs.com/svg.latex?\\mathcal{L}) capture "imperceptible" and "incorrectly" respectively.
 
 ## Trends
 ![](https://nicholas.carlini.com/writing/2019/advex_plot.png)

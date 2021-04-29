@@ -13,7 +13,7 @@ It is often formulated as an optimiation problem:
 ## Trends
 ![](https://nicholas.carlini.com/writing/2019/advex_plot.png)
 
-[image source](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
+[source](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
 
 ## Contests
 - [NIPS 2017: Targeted Adversarial Attack](https://www.kaggle.com/c/nips-2017-targeted-adversarial-attack)

@@ -6,7 +6,7 @@ An image with a non-random noisy **imperceptible** to human can make machines' p
 
 ![](https://github.com/VVillQian/Adversarial-machine-learning/blob/main/images/adex.PNG)
 
-It is often formulated as an optimiation problem:
+It is often formulated as an optimiation problem:x^*=\mathop{argmax}
 ![](https://latex.codecogs.com/svg.latex?x^*=\\mathop{argmax}_{x}Dist(x,x_0)+c\\mathcal{L}(x))
 ,where Dist and ![](https://latex.codecogs.com/svg.latex?\\mathcal{L}) capture "imperceptible" and "incorrectly" respectively.
 

@@ -32,7 +32,7 @@ Number | Method| Title | Reference | Code
 02|FGSM|Explaining and Harnessing Adversarial Examples|[ICLR 2015](https://arxiv.org/abs/1412.6572)
 03|C&W|Towards Evaluating the Robustness of Neural Networks|[S&P 2017](https://ieeexplore.ieee.org/document/7958570/)|[code](http://nicholas.carlini.com/code/nn_robust_attacks)
 04|Boundary Attack|Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models|[ICLR 2018](https://openreview.net/forum?id=SyZI0GWCZ)|[code](https://github.com/bethgelab/foolbox)
-05|ReColorAdv|Functional Adversarial Attacks|[NeurIPS 2019](https://proceedings.neurips.cc/paper/2019/hash/6e923226e43cd6fac7cfe1e13ad000ac-Abstract.html)|[code]( https://github.com/cassidylaidlaw/ReColorAdv)
+05|ReColorAdv|Functional Adversarial Attacks|[NIPS 2019](https://proceedings.neurips.cc/paper/2019/hash/6e923226e43cd6fac7cfe1e13ad000ac-Abstract.html)|[code]( https://github.com/cassidylaidlaw/ReColorAdv)
 06|Opt-attack|Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach|[ICLR 2019](https://openreview.net/forum?id=rJlk6iRqKX)|[code](https://github.com/LeMinhThong/blackbox-attack)
 07|SignHunter|Sign Bits Are All You Need for Black-Box Attacks|[ICLR 2020](https://openreview.net/forum?id=SygW0TEFwH)|[code](https://bit.ly/3acIHoQ)
 08|RayS|RayS: A Ray Searching Method for Hard-label Adversarial Attack|[KDD 2020](https://dl.acm.org/doi/10.1145/3394486.3403225)|[code](https://github.com/uclaml/RayS)
@@ -45,9 +45,8 @@ Number | Method| Title | Reference | Code
 ------ | ----- | ----- | --------- | ---- 
 01|Adversarial Training|Towards Deep Learning Models Resistant to Adversarial Attacks|[ICLR 2018](https://openreview.net/forum?id=rJzIBfZAb)|[code](https://github.com/MadryLab)
 02|TRADES|Theoretically Principled Trade-off between Robustness and Accuracy|[ICML 2019](http://proceedings.mlr.press/v97/zhang19p.html)|[code](https://github.com/yaodongyu/TRADES)
-03|Randomized smoothing|Certified Adversarial Robustness via Randomized Smoothing|[ICML 2019](http://proceedings.mlr.press/v97/cohen19c.html)|[code](http:
-//github.com/locuslab/smoothing)
-04|DMAT|Dual Manifold Adversarial Robustness: Defense against Lp and non-Lp Adversarial Attacks|[NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/23937b42f9273974570fb5a56a6652ee-Abstract.html)|[code]()
+03|Randomized smoothing|Certified Adversarial Robustness via Randomized Smoothing|[ICML 2019](http://proceedings.mlr.press/v97/cohen19c.html)|[code](http://github.com/locuslab/smoothing)
+04|DMAT|Dual Manifold Adversarial Robustness: Defense against Lp and non-Lp Adversarial Attacks|[NIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/23937b42f9273974570fb5a56a6652ee-Abstract.html)|[code]()
 
 
 

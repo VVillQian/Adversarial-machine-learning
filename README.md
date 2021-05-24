@@ -26,23 +26,23 @@ It is often formulated as an optimiation problem:
 
 ### Attack
 
-Number | Method| Title | Reference | Code | Sparkle
------- | ----- | ----- | --------- | ---- | -------
-01|L-BFGS-B|Intriguing Properties of Neural Networks|[ICLR 2014](https://arxiv.org/abs/1312.6199)|[code](http://goo.gl/huaGPb)|Definition
+Number | Method| Title | Reference | Code 
+------ | ----- | ----- | --------- | ---- 
+01|L-BFGS-B|Intriguing Properties of Neural Networks|[ICLR 2014](https://arxiv.org/abs/1312.6199)|[code](http://goo.gl/huaGPb)
 02|FGSM|Explaining and Harnessing Adversarial Examples|[ICLR 2015](https://arxiv.org/abs/1412.6572)
 03|C&W|Towards Evaluating the Robustness of Neural Networks|[S&P 2017](https://ieeexplore.ieee.org/document/7958570/)|[code](http://nicholas.carlini.com/code/nn_robust_attacks)
-04|Boundary Attack|Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models|[ICLR 2018](https://openreview.net/forum?id=SyZI0GWCZ)|[code](https://github.com/bethgelab/foolbox)|black box
-05|Opt-attack|Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach|[ICLR 2019](https://openreview.net/forum?id=rJlk6iRqKX)|[code](https://github.com/LeMinhThong/blackbox-attack)|continuous loss for hard-label
-06|SignHunter|Sign Bits Are All You Need for Black-Box Attacks|[ICLR 2020](https://openreview.net/forum?id=SygW0TEFwH)|[code](https://bit.ly/3acIHoQ)|Separable Gradient Sign Estimation
-07|RayS|RayS: A Ray Searching Method for Hard-label Adversarial Attack|[KDD 2020](https://dl.acm.org/doi/10.1145/3394486.3403225)|[code](https://github.com/uclaml/RayS)|efficiency
+04|Boundary Attack|Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models|[ICLR 2018](https://openreview.net/forum?id=SyZI0GWCZ)|[code](https://github.com/bethgelab/foolbox)
+05|Opt-attack|Query-Efficient Hard-label Black-box Attack: An Optimization-based Approach|[ICLR 2019](https://openreview.net/forum?id=rJlk6iRqKX)|[code](https://github.com/LeMinhThong/blackbox-attack)
+06|SignHunter|Sign Bits Are All You Need for Black-Box Attacks|[ICLR 2020](https://openreview.net/forum?id=SygW0TEFwH)|[code](https://bit.ly/3acIHoQ)
+07|RayS|RayS: A Ray Searching Method for Hard-label Adversarial Attack|[KDD 2020](https://dl.acm.org/doi/10.1145/3394486.3403225)|[code](https://github.com/uclaml/RayS)
 
 
 ### Defence
 
-Number | Method| Title | Reference | Code | Sparkle
------- | ----- | ----- | --------- | ---- | -------
-01|Adversarial Training|Towards Deep Learning Models Resistant to Adversarial Attacks|[ICLR 2018](https://openreview.net/forum?id=rJzIBfZAb)|[code](https://github.com/MadryLab)|min-max formulation;loss surface
-02|TRADES|Theoretically Principled Trade-off between Robustness and Accuracy|[ICML 2019](http://proceedings.mlr.press/v97/zhang19p.html)|[code](https://github.com/yaodongyu/TRADES)|SOTA
+Number | Method| Title | Reference | Code 
+------ | ----- | ----- | --------- | ---- 
+01|Adversarial Training|Towards Deep Learning Models Resistant to Adversarial Attacks|[ICLR 2018](https://openreview.net/forum?id=rJzIBfZAb)|[code](https://github.com/MadryLab)
+02|TRADES|Theoretically Principled Trade-off between Robustness and Accuracy|[ICML 2019](http://proceedings.mlr.press/v97/zhang19p.html)|[code](https://github.com/yaodongyu/TRADES)
 
 
 
